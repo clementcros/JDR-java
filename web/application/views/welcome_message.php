@@ -7,12 +7,12 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	<title>Welcome to JDR</title>
 <body>
 
-<h1>BIENVENUE SUR UN PROJET QUI NE VERRAT JAMAIS LE JOUR ;)
+<h1>WORK IN PROGRESS ;)
 	
 </h1>
 
 <?php
-echo "citimescouillious";
+echo "ps une bière pour un developper pauvre svp";
 ?>
 </body>
 
